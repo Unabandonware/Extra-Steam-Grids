@@ -1,1 +1,1 @@
-zShaderCacheMover is a script to symlink selected games' shader cache & compat data to the SD card or external drive, freeing up external storage. You can find this script (here)[https://github.com/scawp/Steam-Deck.Shader-Cache-Killer]
+zShaderCacheMover is a script to symlink selected games' shader cache & compat data to the SD card or external drive, freeing up external storage. You can find this script [here](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer).
