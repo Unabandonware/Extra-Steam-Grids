@@ -1,0 +1,1 @@
+[The Backloggery](https://backloggery.com/) is a website created to encourage people to play their games and get their video game backlogs under control, mostly by providing a visual breakdown of their game collection. This website can be added as a shortcut in Steam.
